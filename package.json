@@ -1,0 +1,23 @@
+{
+  "name": "drawsgood",
+  "private": true,
+  "description": "Drawsgood Portfolio",
+  "version": "0.0.1",
+  "author": "Mike Myers Jr.",
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "./node_modules/grunt-cli/bin/grunt",
+    "preview": "./node_modules/wintersmith/bin/wintersmith preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drawsgood/drawsgood.github.com.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "wintersmith-less": "~0.1.0",
+    "grunt": "~0.4.1",
+    "wintersmith": "git://github.com/niftylettuce/wintersmith"
+  }
+}
