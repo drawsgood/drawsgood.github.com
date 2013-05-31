@@ -19,6 +19,7 @@
     "wintersmith-less": "~0.1.0",
     "grunt": "~0.4.1",
     "wintersmith": "git://github.com/niftylettuce/wintersmith",
-    "grunt-cli": "~0.1.9"
+    "grunt-cli": "~0.1.9",
+    "wintersmith-ejs": "~0.1.3"
   }
 }
